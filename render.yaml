@@ -29,7 +29,7 @@ services:
       # If you do, you'll lose access to all credentials
       # encrypted with the previous value.
       - key: N8N_ENCRYPTION_KEY
-        generateValue: true
+        Value: https://n8n-service-m8hc.onrender.com/workflow/AekmGPj6QJeLTxEs/70f5d2
 
       # These automatically populate connection details 
       # for the Render Postgres database defined below
